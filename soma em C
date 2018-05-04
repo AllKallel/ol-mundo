@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main (){
+
+int: a, b, c; 
+
+printf("Digite o valor de A:\n\n");
+scanff("%d", &a);
+
+printf("Agora digite o valor de B:\n\n");
+scanff("%d", &a);
+
+C = a + b;
+printf(" soma = %d\n\n", c);
+
+
+
+return 0;
+}
